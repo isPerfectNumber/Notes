@@ -393,7 +393,7 @@ test_A()
 
 从逻辑上看，包的本质依然是模块
 
-![image-20230701144637928](C:\Users\30235\AppData\Roaming\Typora\typora-user-images\image-20230701144637928.png)
+![image-20230701144637928](assets\image-20230701144637928.png)
 
 作用：当模块文件过多时，包可以帮助管理模块。
 
@@ -541,7 +541,7 @@ line.render()
 
 运行之后可以生成一个`html`文件，用浏览器打开即可看到生成的图像。
 
-<img src="C:\Users\30235\AppData\Roaming\Typora\typora-user-images\image-20230702205139086.png" alt="image-20230702205139086" style="zoom: 50%;" />
+<img src="assets\image-20230702205139086.png" alt="image-20230702205139086" style="zoom: 50%;" />
 
 #### 全局配置
 
@@ -565,8 +565,6 @@ line.render()
 
 效果：
 
-![image-20230702210544352](C:\Users\30235\AppData\Roaming\Typora\typora-user-images\image-20230702210544352.png)
-
+![image-20230702210544352](assets\image-20230702210544352.png)
 详细配置项可以查阅相关文档。
 
-#### 数据处理
